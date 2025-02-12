@@ -1,26 +1,23 @@
-🚀 Successfully designed and deployed a Kubernetes-based CI/CD pipeline for a Healthcare Domain project, ensuring automation, scalability, and real-time monitoring.
+🚀 Developed and deployed a CI/CD pipeline for an Insurance Domain project, ensuring seamless automation, deployment, and monitoring of the application.
 
 🔹 Project Overview:
 
-✅ AWS Infrastructure Setup: Provisioned EC2 instances using Terraform for automated infrastructure deployment.
+✅ Set up an efficient AWS infrastructure with EC2 instances for deployment.
 
-✅ CI/CD Pipeline Implementation: Configured Jenkins for automated builds and integrated GitHub 
-✅ Webhooks for continuous deployment.
+✅ Implemented Jenkins for continuous integration and GitHub Webhooks for automated build triggers.
 
-✅ Containerized Deployment: Used Docker and Kubernetes (K8s) for seamless microservices deployment.
+✅ Utilized Docker for containerized deployment, ensuring scalability and portability.
 
-✅Infrastructure Automation: Implemented Ansible for automated configuration management.
+✅ Automated infrastructure management using Ansible, enabling smooth configuration.
 
-✅ Real-time Monitoring: Deployed Prometheus & Grafana to track system health, CPU usage, and disk space utilization.
+✅ Streamlined deployments and updates with GitHub version control.
 
 💡 Tech Stack & Tools Used:
 ✅ Version Control & CI/CD: Git, GitHub, Jenkins
 ✅ Cloud Platform: AWS (EC2, IAM, Security Groups)
-✅ Infrastructure as Code (IaC): Terraform
-✅ Containerization & Orchestration: Docker, Kubernetes (K8s)
-✅ Automation & Configuration Management: Ansible
-✅ Monitoring & Logging: Prometheus, Grafana, Node Exporter
+✅ Infrastructure Automation: Ansible
+✅ Containerization & Deployment: Docker, Docker Hub
+✅ Scripting & Configuration: Shell Scripting, YAML
 ✅ Security & Access Management: GitHub PAT, AWS IAM
-✅ Programming & Scripting: Shell Scripting, YAML
 
-This project helped me gain expertise in DevOps, Kubernetes, cloud automation, and CI/CD pipelines. Excited to take on more cloud-native and DevOps engineering challenges! 🚀
+This project has significantly enhanced my expertise in DevOps, automation, cloud infrastructure, and continuous deployment strategies. Excited to explore more opportunities in DevOps and Cloud Engineering! 🚀
